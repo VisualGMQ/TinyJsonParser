@@ -1,0 +1,14 @@
+{
+    "int" : 32,
+    "int2" : -91,
+    "bool" : true,
+    "str" : "hello world",
+    "float" : 3.124,
+    "float2" : -1.234,
+    "array" : [ 32, "hello", false,
+        {
+            "key1": false,
+            "key2": 192
+        }],
+        "null": null
+}
